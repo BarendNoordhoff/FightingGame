@@ -63,6 +63,7 @@
      <Compile Include="Assets\Scripts\AttackScripts\LightAttacks\TestDummyLightAttack.cs" />
      <Compile Include="Assets\Scripts\AttackScripts\MediumAttacks\TestDummyMediumAttack.cs" />
      <Compile Include="Assets\Scripts\DeterminePosition.cs" />
+     <Compile Include="Assets\Scripts\GameEvents.cs" />
      <Compile Include="Assets\Scripts\PlayerControl\CharacterSpecificScripts\TestDummy.cs" />
      <Compile Include="Assets\Scripts\PlayerControl\PlayerController.cs" />
      <Compile Include="Assets\Scripts\cameraPointer.cs" />
